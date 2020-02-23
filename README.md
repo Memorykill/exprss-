@@ -1,5 +1,5 @@
 # express使用
-精简版express文档
+精简版express翻译文档
 ## express()
 express()用来创建一个Express的程序。express()方法是express模块导出的顶层方法。
 
